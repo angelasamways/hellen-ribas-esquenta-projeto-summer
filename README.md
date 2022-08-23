@@ -7,7 +7,7 @@
 <div>
 <h3>1) Crie um componente Form</h3>
 <p> - Deve renderizar um formulário (siga o figma para a criação)</p>
-<a>https://www.figma.com/file/U1xafu31lhqBqyA2zPH7sC/Untitled?node-id=0%3A1</a>
+<a>https://www.figma.com/file/U1xafu31lhqBqyA2zPH7sC/StudentForm?node-id=0%3A1</a>
 </div>
 <br>
 <h3>2) Crie um componente Preview</h3>
